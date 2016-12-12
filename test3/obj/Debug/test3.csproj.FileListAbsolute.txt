@@ -1,0 +1,9 @@
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\bin\Debug\test3.exe.config
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\bin\Debug\test3.exe
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\bin\Debug\test3.pdb
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\obj\Debug\test3.Form1.resources
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\obj\Debug\test3.Properties.Resources.resources
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\obj\Debug\test3.csproj.GenerateResource.Cache
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\obj\Debug\test3.exe
+c:\users\shanty\documents\visual studio 2015\Projects\test3\test3\obj\Debug\test3.pdb
